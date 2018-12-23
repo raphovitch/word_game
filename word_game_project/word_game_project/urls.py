@@ -16,8 +16,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from profile_app import views
+from game_app import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('profile_app/', include('profile_app.urls')),
+    path('game_app/', include('game_app.urls')),
 ]

@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'profile_app',
+    'game_app',
 ]
 
 MIDDLEWARE = [
@@ -130,4 +131,4 @@ STATICFILES_DIRS = [
 MEDIA_ROOT = MEDIA_DIR
 MEDIA_URL = '/media/'
 
-LOGIN_URL = '/login_app/login'
+# LOGIN_URL = '/login_app/login'
