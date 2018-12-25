@@ -75,3 +75,5 @@ class Game(models.Model):
 		return 'Game n° {}'.format(self.id)
 
 
+
+

@@ -40,19 +40,22 @@ def get_coded_word(word):
 
 
 def game_page(request):
-	del request.session['words_used']
+	if 'words_used' in request.session: 
+		del request.session['words_used']
 	return render(request,'game.html')
 
 
 def get_word(request):
-	if request.session.get('words_used', False) == False: 
+	if 'words_used' not in request.session: 
 		request.session['words_used']=[]
-
-	word_object = Word.objects.order_by('?')[0]
+	print(', '.join(request.session['words_used']))
+	word_object = Word.objects.exclude(word__in=request.session['words_used']).order_by('?')[0]
+	print(word_object)
 	category = word_object.category.name
+	request.session['words_used'].append(word_object.word)
 	word_string = word_object.word.lower()
 	list_number_word = get_coded_word(word_string) 
-	request.session['words_used'].append(word_string)
+	
 	request.session.modified = True
 	print(request.session['words_used'])
 
