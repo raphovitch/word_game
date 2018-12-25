@@ -1,0 +1,2270 @@
+[
+  {
+    "category": "Animaux",
+    "word": "Agneau"
+  },
+  {
+    "category": "Animaux",
+    "word": "Aigle"
+  },
+  {
+    "category": "Animaux",
+    "word": "Albatros"
+  },
+  {
+    "category": "Animaux",
+    "word": "Alligator"
+  },
+  {
+    "category": "Animaux",
+    "word": "Alpaga"
+  },
+  {
+    "category": "Animaux",
+    "word": "Anaconda"
+  },
+  {
+    "category": "Animaux",
+    "word": "Antilope"
+  },
+  {
+    "category": "Animaux",
+    "word": "Araignée"
+  },
+  {
+    "category": "Animaux",
+    "word": "Autruche"
+  },
+  {
+    "category": "Animaux",
+    "word": "Babouin"
+  },
+  {
+    "category": "Animaux",
+    "word": "Baleine"
+  },
+  {
+    "category": "Animaux",
+    "word": "Belette"
+  },
+  {
+    "category": "Animaux",
+    "word": "Béluga"
+  },
+  {
+    "category": "Animaux",
+    "word": "Biche"
+  },
+  {
+    "category": "Animaux",
+    "word": "Bison"
+  },
+  {
+    "category": "Animaux",
+    "word": "Blaireau"
+  },
+  {
+    "category": "Animaux",
+    "word": "Boa"
+  },
+  {
+    "category": "Animaux",
+    "word": "Boeuf"
+  },
+  {
+    "category": "Animaux",
+    "word": "Bonobo"
+  },
+  {
+    "category": "Animaux",
+    "word": "Brebis"
+  },
+  {
+    "category": "Animaux",
+    "word": "Buffle"
+  },
+  {
+    "category": "Animaux",
+    "word": "Cachalot"
+  },
+  {
+    "category": "Animaux",
+    "word": "Canard"
+  },
+  {
+    "category": "Animaux",
+    "word": "Caribou"
+  },
+  {
+    "category": "Animaux",
+    "word": "Castor"
+  },
+  {
+    "category": "Animaux",
+    "word": "Cerf"
+  },
+  {
+    "category": "Animaux",
+    "word": "Chacal"
+  },
+  {
+    "category": "Animaux",
+    "word": "Chameau"
+  },
+  {
+    "category": "Animaux",
+    "word": "Chamois"
+  },
+  {
+    "category": "Animaux",
+    "word": "Chat"
+  },
+  {
+    "category": "Animaux",
+    "word": "Chaus"
+  },
+  {
+    "category": "Animaux",
+    "word": "Cheval"
+  },
+  {
+    "category": "Animaux",
+    "word": "Chèvre"
+  },
+  {
+    "category": "Animaux",
+    "word": "Chevreuil"
+  },
+  {
+    "category": "Animaux",
+    "word": "Chien"
+  },
+  {
+    "category": "Animaux",
+    "word": "Chimpanzé"
+  },
+  {
+    "category": "Animaux",
+    "word": "Chouette"
+  },
+  {
+    "category": "Animaux",
+    "word": "Cigogne"
+  },
+  {
+    "category": "Animaux",
+    "word": "Coccinelle"
+  },
+  {
+    "category": "Animaux",
+    "word": "Cochon"
+  },
+  {
+    "category": "Animaux",
+    "word": "Coq"
+  },
+  {
+    "category": "Animaux",
+    "word": "Coyote"
+  },
+  {
+    "category": "Animaux",
+    "word": "Crocodile"
+  },
+  {
+    "category": "Animaux",
+    "word": "Cygne"
+  },
+  {
+    "category": "Animaux",
+    "word": "Daim"
+  },
+  {
+    "category": "Animaux",
+    "word": "Dauphin"
+  },
+  {
+    "category": "Animaux",
+    "word": "Dinde"
+  },
+  {
+    "category": "Animaux",
+    "word": "Dindon"
+  },
+  {
+    "category": "Animaux",
+    "word": "Dromadaire"
+  },
+  {
+    "category": "Animaux",
+    "word": "Écureuil"
+  },
+  {
+    "category": "Animaux",
+    "word": "Élan"
+  },
+  {
+    "category": "Animaux",
+    "word": "Éléphant"
+  },
+  {
+    "category": "Animaux",
+    "word": "Escargot"
+  },
+  {
+    "category": "Animaux",
+    "word": "Espadon"
+  },
+  {
+    "category": "Animaux",
+    "word": "Faisan"
+  },
+  {
+    "category": "Animaux",
+    "word": "Faon"
+  },
+  {
+    "category": "Animaux",
+    "word": "Faucon"
+  },
+  {
+    "category": "Animaux",
+    "word": "Fennec"
+  },
+  {
+    "category": "Animaux",
+    "word": "Flamant rose"
+  },
+  {
+    "category": "Animaux",
+    "word": "Fouine"
+  },
+  {
+    "category": "Animaux",
+    "word": "Furet"
+  },
+  {
+    "category": "Animaux",
+    "word": "Gazelle"
+  },
+  {
+    "category": "Animaux",
+    "word": "Girafe"
+  },
+  {
+    "category": "Animaux",
+    "word": "Gorille"
+  },
+  {
+    "category": "Animaux",
+    "word": "Grenouille"
+  },
+  {
+    "category": "Animaux",
+    "word": "Grizzly"
+  },
+  {
+    "category": "Animaux",
+    "word": "Guépard"
+  },
+  {
+    "category": "Animaux",
+    "word": "Hamster"
+  },
+  {
+    "category": "Animaux",
+    "word": "Hérisson"
+  },
+  {
+    "category": "Animaux",
+    "word": "Héron"
+  },
+  {
+    "category": "Animaux",
+    "word": "Hibou"
+  },
+  {
+    "category": "Animaux",
+    "word": "Hippocampe"
+  },
+  {
+    "category": "Animaux",
+    "word": "Hippopotame"
+  },
+  {
+    "category": "Animaux",
+    "word": "Hirondelle"
+  },
+  {
+    "category": "Animaux",
+    "word": "Hyène"
+  },
+  {
+    "category": "Animaux",
+    "word": "Impala"
+  },
+  {
+    "category": "Animaux",
+    "word": "Jaguar"
+  },
+  {
+    "category": "Animaux",
+    "word": "Kangourou"
+  },
+  {
+    "category": "Animaux",
+    "word": "Kiwi"
+  },
+  {
+    "category": "Animaux",
+    "word": "Koala"
+  },
+  {
+    "category": "Animaux",
+    "word": "Lamas"
+  },
+  {
+    "category": "Animaux",
+    "word": "Lapin"
+  },
+  {
+    "category": "Animaux",
+    "word": "Lémurien"
+  },
+  {
+    "category": "Animaux",
+    "word": "Léopard"
+  },
+  {
+    "category": "Animaux",
+    "word": "Lézard"
+  },
+  {
+    "category": "Animaux",
+    "word": "Lièvre"
+  },
+  {
+    "category": "Animaux",
+    "word": "Lion"
+  },
+  {
+    "category": "Animaux",
+    "word": "Loup"
+  },
+  {
+    "category": "Animaux",
+    "word": "Loutre"
+  },
+  {
+    "category": "Animaux",
+    "word": "Lynx"
+  },
+  {
+    "category": "Animaux",
+    "word": "Macaque"
+  },
+  {
+    "category": "Animaux",
+    "word": "Mammouth"
+  },
+  {
+    "category": "Animaux",
+    "word": "Manchot"
+  },
+  {
+    "category": "Animaux",
+    "word": "Mangouste"
+  },
+  {
+    "category": "Animaux",
+    "word": "Marmotte"
+  },
+  {
+    "category": "Animaux",
+    "word": "Mésange"
+  },
+  {
+    "category": "Animaux",
+    "word": "Mouette"
+  },
+  {
+    "category": "Animaux",
+    "word": "Mouton"
+  },
+  {
+    "category": "Animaux",
+    "word": "Mulet"
+  },
+  {
+    "category": "Animaux",
+    "word": "Mulot"
+  },
+  {
+    "category": "Animaux",
+    "word": "Oie"
+  },
+  {
+    "category": "Animaux",
+    "word": "Opossum"
+  },
+  {
+    "category": "Animaux",
+    "word": "Oran"
+  },
+  {
+    "category": "Animaux",
+    "word": "Ornithorynque"
+  },
+  {
+    "category": "Animaux",
+    "word": "Otarie"
+  },
+  {
+    "category": "Animaux",
+    "word": "Ouistiti"
+  },
+  {
+    "category": "Animaux",
+    "word": "Ours"
+  },
+  {
+    "category": "Animaux",
+    "word": "Panda"
+  },
+  {
+    "category": "Animaux",
+    "word": "Panthère"
+  },
+  {
+    "category": "Animaux",
+    "word": "Paon"
+  },
+  {
+    "category": "Animaux",
+    "word": "Paresseux"
+  },
+  {
+    "category": "Animaux",
+    "word": "Pélican"
+  },
+  {
+    "category": "Animaux",
+    "word": "Perroquet"
+  },
+  {
+    "category": "Animaux",
+    "word": "Phoque"
+  },
+  {
+    "category": "Animaux",
+    "word": "Pingouin"
+  },
+  {
+    "category": "Animaux",
+    "word": "Poney"
+  },
+  {
+    "category": "Animaux",
+    "word": "Porc"
+  },
+  {
+    "category": "Animaux",
+    "word": "Porc-épic"
+  },
+  {
+    "category": "Animaux",
+    "word": "Poule"
+  },
+  {
+    "category": "Animaux",
+    "word": "Poulet"
+  },
+  {
+    "category": "Animaux",
+    "word": "Poulpe"
+  },
+  {
+    "category": "Animaux",
+    "word": "Poussin"
+  },
+  {
+    "category": "Animaux",
+    "word": "Puma"
+  },
+  {
+    "category": "Animaux",
+    "word": "Putois"
+  },
+  {
+    "category": "Animaux",
+    "word": "Python"
+  },
+  {
+    "category": "Animaux",
+    "word": "Rat"
+  },
+  {
+    "category": "Animaux",
+    "word": "Raton laveur"
+  },
+  {
+    "category": "Animaux",
+    "word": "Renard"
+  },
+  {
+    "category": "Animaux",
+    "word": "Requin"
+  },
+  {
+    "category": "Animaux",
+    "word": "Rhinocéros"
+  },
+  {
+    "category": "Animaux",
+    "word": "Salamandre"
+  },
+  {
+    "category": "Animaux",
+    "word": "Sanglier"
+  },
+  {
+    "category": "Animaux",
+    "word": "Serpent"
+  },
+  {
+    "category": "Animaux",
+    "word": "Singe"
+  },
+  {
+    "category": "Animaux",
+    "word": "Souris"
+  },
+  {
+    "category": "Animaux",
+    "word": "Sphynx"
+  },
+  {
+    "category": "Animaux",
+    "word": "Taupe"
+  },
+  {
+    "category": "Animaux",
+    "word": "Taureau"
+  },
+  {
+    "category": "Animaux",
+    "word": "Tigre"
+  },
+  {
+    "category": "Animaux",
+    "word": "Tortue"
+  },
+  {
+    "category": "Animaux",
+    "word": "Toucan"
+  },
+  {
+    "category": "Animaux",
+    "word": "Vache"
+  },
+  {
+    "category": "Animaux",
+    "word": "Vautour"
+  },
+  {
+    "category": "Animaux",
+    "word": "Veau"
+  },
+  {
+    "category": "Animaux",
+    "word": "Vipère"
+  },
+  {
+    "category": "Animaux",
+    "word": "Wallaby"
+  },
+  {
+    "category": "Animaux",
+    "word": "Zèbre"
+  },
+  {
+    "category": "Fruits",
+    "word": "Abricot"
+  },
+  {
+    "category": "Fruits",
+    "word": "Amande"
+  },
+  {
+    "category": "Fruits",
+    "word": "Ananas"
+  },
+  {
+    "category": "Fruits",
+    "word": "Avocat"
+  },
+  {
+    "category": "Fruits",
+    "word": "Banane"
+  },
+  {
+    "category": "Fruits",
+    "word": "Bergamote"
+  },
+  {
+    "category": "Fruits",
+    "word": "Cacahuète"
+  },
+  {
+    "category": "Fruits",
+    "word": "Cassis"
+  },
+  {
+    "category": "Fruits",
+    "word": "Cerise"
+  },
+  {
+    "category": "Fruits",
+    "word": "Châtaigne"
+  },
+  {
+    "category": "Fruits",
+    "word": "Citron"
+  },
+  {
+    "category": "Fruits",
+    "word": "Citron vert"
+  },
+  {
+    "category": "Fruits",
+    "word": "Clémentine"
+  },
+  {
+    "category": "Fruits",
+    "word": "Datte"
+  },
+  {
+    "category": "Fruits",
+    "word": "Figue"
+  },
+  {
+    "category": "Fruits",
+    "word": "Fraise"
+  },
+  {
+    "category": "Fruits",
+    "word": "Fraise des bois"
+  },
+  {
+    "category": "Fruits",
+    "word": "Framboise"
+  },
+  {
+    "category": "Fruits",
+    "word": "Fruit de la passion"
+  },
+  {
+    "category": "Fruits",
+    "word": "Goyave"
+  },
+  {
+    "category": "Fruits",
+    "word": "Grenade"
+  },
+  {
+    "category": "Fruits",
+    "word": "Groseille"
+  },
+  {
+    "category": "Fruits",
+    "word": "Jujube"
+  },
+  {
+    "category": "Fruits",
+    "word": "Kaki"
+  },
+  {
+    "category": "Fruits",
+    "word": "Kiwi"
+  },
+  {
+    "category": "Fruits",
+    "word": "Litchi"
+  },
+  {
+    "category": "Fruits",
+    "word": "Mandarine"
+  },
+  {
+    "category": "Fruits",
+    "word": "Mangue"
+  },
+  {
+    "category": "Fruits",
+    "word": "Marron"
+  },
+  {
+    "category": "Fruits",
+    "word": "Melon"
+  },
+  {
+    "category": "Fruits",
+    "word": "Mirabelle"
+  },
+  {
+    "category": "Fruits",
+    "word": "Mûre"
+  },
+  {
+    "category": "Fruits",
+    "word": "Myrtille"
+  },
+  {
+    "category": "Fruits",
+    "word": "Nectarine"
+  },
+  {
+    "category": "Fruits",
+    "word": "Noisette"
+  },
+  {
+    "category": "Fruits",
+    "word": "Noix"
+  },
+  {
+    "category": "Fruits",
+    "word": "Noix de cajou"
+  },
+  {
+    "category": "Fruits",
+    "word": "Noix de coco"
+  },
+  {
+    "category": "Fruits",
+    "word": "Noix de macadamia"
+  },
+  {
+    "category": "Fruits",
+    "word": "Noix de pécan"
+  },
+  {
+    "category": "Fruits",
+    "word": "Olive"
+  },
+  {
+    "category": "Fruits",
+    "word": "Orange"
+  },
+  {
+    "category": "Fruits",
+    "word": "Pamplemousse"
+  },
+  {
+    "category": "Fruits",
+    "word": "Papaye"
+  },
+  {
+    "category": "Fruits",
+    "word": "Pastèque"
+  },
+  {
+    "category": "Fruits",
+    "word": "Pêche"
+  },
+  {
+    "category": "Fruits",
+    "word": "Pistache"
+  },
+  {
+    "category": "Fruits",
+    "word": "Poire"
+  },
+  {
+    "category": "Fruits",
+    "word": "Pomme"
+  },
+  {
+    "category": "Fruits",
+    "word": "Prune"
+  },
+  {
+    "category": "Fruits",
+    "word": "Raisin"
+  },
+  {
+    "category": "Fruits",
+    "word": "Tomate"
+  },
+  {
+    "category": "Fruits",
+    "word": "Vanille"
+  },
+  {
+    "category": "Légumes",
+    "word": "Ail"
+  },
+  {
+    "category": "Légumes",
+    "word": "Artichaut"
+  },
+  {
+    "category": "Légumes",
+    "word": "Asperge"
+  },
+  {
+    "category": "Légumes",
+    "word": "Aubergine"
+  },
+  {
+    "category": "Légumes",
+    "word": "Avocat"
+  },
+  {
+    "category": "Légumes",
+    "word": "Betterave"
+  },
+  {
+    "category": "Légumes",
+    "word": "Blette"
+  },
+  {
+    "category": "Légumes",
+    "word": "Brocoli"
+  },
+  {
+    "category": "Légumes",
+    "word": "Carotte"
+  },
+  {
+    "category": "Légumes",
+    "word": "Céleri"
+  },
+  {
+    "category": "Légumes",
+    "word": "Champignon"
+  },
+  {
+    "category": "Légumes",
+    "word": "Choux"
+  },
+  {
+    "category": "Légumes",
+    "word": "Citrouille"
+  },
+  {
+    "category": "Légumes",
+    "word": "Concombre"
+  },
+  {
+    "category": "Légumes",
+    "word": "Courge"
+  },
+  {
+    "category": "Légumes",
+    "word": "Courgette"
+  },
+  {
+    "category": "Légumes",
+    "word": "Échalote"
+  },
+  {
+    "category": "Légumes",
+    "word": "Endive"
+  },
+  {
+    "category": "Légumes",
+    "word": "Épinard"
+  },
+  {
+    "category": "Légumes",
+    "word": "Fenouil"
+  },
+  {
+    "category": "Légumes",
+    "word": "Fève"
+  },
+  {
+    "category": "Légumes",
+    "word": "Haricot"
+  },
+  {
+    "category": "Légumes",
+    "word": "Laitue"
+  },
+  {
+    "category": "Légumes",
+    "word": "Lentille"
+  },
+  {
+    "category": "Légumes",
+    "word": "Mâche"
+  },
+  {
+    "category": "Légumes",
+    "word": "Maïs"
+  },
+  {
+    "category": "Légumes",
+    "word": "Navet"
+  },
+  {
+    "category": "Légumes",
+    "word": "Oignon"
+  },
+  {
+    "category": "Légumes",
+    "word": "Olive"
+  },
+  {
+    "category": "Légumes",
+    "word": "Poireau"
+  },
+  {
+    "category": "Légumes",
+    "word": "Poivron"
+  },
+  {
+    "category": "Légumes",
+    "word": "Potimarron"
+  },
+  {
+    "category": "Légumes",
+    "word": "Potiron"
+  },
+  {
+    "category": "Légumes",
+    "word": "Radis"
+  },
+  {
+    "category": "Légumes",
+    "word": "Roquette"
+  },
+  {
+    "category": "Légumes",
+    "word": "Salade"
+  },
+  {
+    "category": "Légumes",
+    "word": "Tomate"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Abarth"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Alfa Romeo"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Aston Martin"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Audi"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Austin"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Bentley"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "BMW"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Bugatti"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Cadillac"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Chevrolet"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Chrysler"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Citroën"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Dacia"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Daewoo"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "DeLorean"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Ferrari"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "FIAT"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Ford"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Ford Mustang"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "GMC"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Gumpert"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Honda"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Hummer"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Hyundai"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Infiniti"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Jaguar"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Jeep"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Kia"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Lamborghini"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Lancia"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Land Rover"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Lexus"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Lincoln"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Lotus"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Maserati"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Maybach"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Mazda"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "McLaren"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Mercedes-Benz"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Mini"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Mitsubishi"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Nissan"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Opel"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Pagani"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Peugeot"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Pontiac"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Porsche"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Radical"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Renault"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Rolls-Royce"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Rover"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Saab"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Seat"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Shelby"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Skoda"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Smart"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Subaru"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Suzuki"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Tesla Motors"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Toyota"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Volkswagen"
+  },
+  {
+    "category": "Marque de voitures",
+    "word": "Volvo"
+  },
+  {
+    "category": "Pays",
+    "word": "Afghanistan"
+  },
+  {
+    "category": "Pays",
+    "word": "Afrique du sud"
+  },
+  {
+    "category": "Pays",
+    "word": "Albanie"
+  },
+  {
+    "category": "Pays",
+    "word": "Algérie"
+  },
+  {
+    "category": "Pays",
+    "word": "Allemagne"
+  },
+  {
+    "category": "Pays",
+    "word": "Angleterre"
+  },
+  {
+    "category": "Pays",
+    "word": "Angola"
+  },
+  {
+    "category": "Pays",
+    "word": "Antarctique"
+  },
+  {
+    "category": "Pays",
+    "word": "Arabie saoudite"
+  },
+  {
+    "category": "Pays",
+    "word": "Argentine"
+  },
+  {
+    "category": "Pays",
+    "word": "Arménie"
+  },
+  {
+    "category": "Pays",
+    "word": "Australie"
+  },
+  {
+    "category": "Pays",
+    "word": "Autriche"
+  },
+  {
+    "category": "Pays",
+    "word": "Azerbaïdjan"
+  },
+  {
+    "category": "Pays",
+    "word": "Bahamas"
+  },
+  {
+    "category": "Pays",
+    "word": "Bahrain"
+  },
+  {
+    "category": "Pays",
+    "word": "Bangladesh"
+  },
+  {
+    "category": "Pays",
+    "word": "Belgique"
+  },
+  {
+    "category": "Pays",
+    "word": "Benin"
+  },
+  {
+    "category": "Pays",
+    "word": "Bermudes"
+  },
+  {
+    "category": "Pays",
+    "word": "Biélorussie"
+  },
+  {
+    "category": "Pays",
+    "word": "Birmanie"
+  },
+  {
+    "category": "Pays",
+    "word": "Bolivie"
+  },
+  {
+    "category": "Pays",
+    "word": "Bosnie-Herzégovine"
+  },
+  {
+    "category": "Pays",
+    "word": "Botswana"
+  },
+  {
+    "category": "Pays",
+    "word": "Brésil"
+  },
+  {
+    "category": "Pays",
+    "word": "Bulgarie"
+  },
+  {
+    "category": "Pays",
+    "word": "Burkina Faso"
+  },
+  {
+    "category": "Pays",
+    "word": "Cambodge"
+  },
+  {
+    "category": "Pays",
+    "word": "Cameroun"
+  },
+  {
+    "category": "Pays",
+    "word": "Canada"
+  },
+  {
+    "category": "Pays",
+    "word": "Cap Vert"
+  },
+  {
+    "category": "Pays",
+    "word": "Cayman"
+  },
+  {
+    "category": "Pays",
+    "word": "Chili"
+  },
+  {
+    "category": "Pays",
+    "word": "Chine"
+  },
+  {
+    "category": "Pays",
+    "word": "Chypre"
+  },
+  {
+    "category": "Pays",
+    "word": "Colombie"
+  },
+  {
+    "category": "Pays",
+    "word": "Congo"
+  },
+  {
+    "category": "Pays",
+    "word": "Corée du Nord"
+  },
+  {
+    "category": "Pays",
+    "word": "Corée du Sud"
+  },
+  {
+    "category": "Pays",
+    "word": "Costa Rica"
+  },
+  {
+    "category": "Pays",
+    "word": "Côte d'Ivoire"
+  },
+  {
+    "category": "Pays",
+    "word": "Croatie"
+  },
+  {
+    "category": "Pays",
+    "word": "Cuba"
+  },
+  {
+    "category": "Pays",
+    "word": "Danemark"
+  },
+  {
+    "category": "Pays",
+    "word": "Dominique"
+  },
+  {
+    "category": "Pays",
+    "word": "Egypte"
+  },
+  {
+    "category": "Pays",
+    "word": "Emirats arabes unis"
+  },
+  {
+    "category": "Pays",
+    "word": "Equateur"
+  },
+  {
+    "category": "Pays",
+    "word": "Espagne"
+  },
+  {
+    "category": "Pays",
+    "word": "Estonie"
+  },
+  {
+    "category": "Pays",
+    "word": "Etats-Unis"
+  },
+  {
+    "category": "Pays",
+    "word": "Ethiopie"
+  },
+  {
+    "category": "Pays",
+    "word": "Fidji"
+  },
+  {
+    "category": "Pays",
+    "word": "Finlande"
+  },
+  {
+    "category": "Pays",
+    "word": "France"
+  },
+  {
+    "category": "Pays",
+    "word": "Gabon"
+  },
+  {
+    "category": "Pays",
+    "word": "Géorgie"
+  },
+  {
+    "category": "Pays",
+    "word": "Ghana"
+  },
+  {
+    "category": "Pays",
+    "word": "Gibraltar"
+  },
+  {
+    "category": "Pays",
+    "word": "Grèce"
+  },
+  {
+    "category": "Pays",
+    "word": "Groenland"
+  },
+  {
+    "category": "Pays",
+    "word": "Guadeloupe"
+  },
+  {
+    "category": "Pays",
+    "word": "Guatemala"
+  },
+  {
+    "category": "Pays",
+    "word": "Guinée"
+  },
+  {
+    "category": "Pays",
+    "word": "Guyane"
+  },
+  {
+    "category": "Pays",
+    "word": "Haïti"
+  },
+  {
+    "category": "Pays",
+    "word": "Honduras"
+  },
+  {
+    "category": "Pays",
+    "word": "Hongrie"
+  },
+  {
+    "category": "Pays",
+    "word": "Inde"
+  },
+  {
+    "category": "Pays",
+    "word": "Indonésie"
+  },
+  {
+    "category": "Pays",
+    "word": "Irak"
+  },
+  {
+    "category": "Pays",
+    "word": "Iran"
+  },
+  {
+    "category": "Pays",
+    "word": "Irlande"
+  },
+  {
+    "category": "Pays",
+    "word": "Islande"
+  },
+  {
+    "category": "Pays",
+    "word": "Israël"
+  },
+  {
+    "category": "Pays",
+    "word": "Italie"
+  },
+  {
+    "category": "Pays",
+    "word": "Jamaïque"
+  },
+  {
+    "category": "Pays",
+    "word": "Japon"
+  },
+  {
+    "category": "Pays",
+    "word": "Jordanie"
+  },
+  {
+    "category": "Pays",
+    "word": "Kazakhstan"
+  },
+  {
+    "category": "Pays",
+    "word": "Kenya"
+  },
+  {
+    "category": "Pays",
+    "word": "Koweit"
+  },
+  {
+    "category": "Pays",
+    "word": "Laos"
+  },
+  {
+    "category": "Pays",
+    "word": "Lettonie"
+  },
+  {
+    "category": "Pays",
+    "word": "Liban"
+  },
+  {
+    "category": "Pays",
+    "word": "Libéria"
+  },
+  {
+    "category": "Pays",
+    "word": "Libye"
+  },
+  {
+    "category": "Pays",
+    "word": "Liechtenstein"
+  },
+  {
+    "category": "Pays",
+    "word": "Lithuanie"
+  },
+  {
+    "category": "Pays",
+    "word": "Luxembourg"
+  },
+  {
+    "category": "Pays",
+    "word": "Macau"
+  },
+  {
+    "category": "Pays",
+    "word": "Macédoine"
+  },
+  {
+    "category": "Pays",
+    "word": "Madagascar"
+  },
+  {
+    "category": "Pays",
+    "word": "Malaisie"
+  },
+  {
+    "category": "Pays",
+    "word": "Malawi"
+  },
+  {
+    "category": "Pays",
+    "word": "Maldives"
+  },
+  {
+    "category": "Pays",
+    "word": "Mali"
+  },
+  {
+    "category": "Pays",
+    "word": "Malte"
+  },
+  {
+    "category": "Pays",
+    "word": "Maroc"
+  },
+  {
+    "category": "Pays",
+    "word": "Martinique"
+  },
+  {
+    "category": "Pays",
+    "word": "Maurice"
+  },
+  {
+    "category": "Pays",
+    "word": "Mauritanie"
+  },
+  {
+    "category": "Pays",
+    "word": "Mexique"
+  },
+  {
+    "category": "Pays",
+    "word": "Moldavie"
+  },
+  {
+    "category": "Pays",
+    "word": "Monaco"
+  },
+  {
+    "category": "Pays",
+    "word": "Mongolie"
+  },
+  {
+    "category": "Pays",
+    "word": "Namibie"
+  },
+  {
+    "category": "Pays",
+    "word": "Nepal"
+  },
+  {
+    "category": "Pays",
+    "word": "Nicaragua"
+  },
+  {
+    "category": "Pays",
+    "word": "Niger"
+  },
+  {
+    "category": "Pays",
+    "word": "Nigeria"
+  },
+  {
+    "category": "Pays",
+    "word": "Norvège"
+  },
+  {
+    "category": "Pays",
+    "word": "Nouvelle Calédonie"
+  },
+  {
+    "category": "Pays",
+    "word": "Nouvelle-Zélande"
+  },
+  {
+    "category": "Pays",
+    "word": "Oman"
+  },
+  {
+    "category": "Pays",
+    "word": "Ouganda"
+  },
+  {
+    "category": "Pays",
+    "word": "Ouzbékistan"
+  },
+  {
+    "category": "Pays",
+    "word": "Pakistan"
+  },
+  {
+    "category": "Pays",
+    "word": "Panama"
+  },
+  {
+    "category": "Pays",
+    "word": "Paraguay"
+  },
+  {
+    "category": "Pays",
+    "word": "Pays-Bas"
+  },
+  {
+    "category": "Pays",
+    "word": "Pérou"
+  },
+  {
+    "category": "Pays",
+    "word": "Philippines"
+  },
+  {
+    "category": "Pays",
+    "word": "Pologne"
+  },
+  {
+    "category": "Pays",
+    "word": "Polynésie française"
+  },
+  {
+    "category": "Pays",
+    "word": "Porto Rico"
+  },
+  {
+    "category": "Pays",
+    "word": "Portugal"
+  },
+  {
+    "category": "Pays",
+    "word": "Qatar"
+  },
+  {
+    "category": "Pays",
+    "word": "République Dominicaine"
+  },
+  {
+    "category": "Pays",
+    "word": "République tchèque"
+  },
+  {
+    "category": "Pays",
+    "word": "Réunion"
+  },
+  {
+    "category": "Pays",
+    "word": "Roumanie"
+  },
+  {
+    "category": "Pays",
+    "word": "Royaume-Uni"
+  },
+  {
+    "category": "Pays",
+    "word": "Russie"
+  },
+  {
+    "category": "Pays",
+    "word": "Rwanda"
+  },
+  {
+    "category": "Pays",
+    "word": "Saint-Marin"
+  },
+  {
+    "category": "Pays",
+    "word": "Sénégal"
+  },
+  {
+    "category": "Pays",
+    "word": "Seychelles"
+  },
+  {
+    "category": "Pays",
+    "word": "Singapour"
+  },
+  {
+    "category": "Pays",
+    "word": "Slovaquie"
+  },
+  {
+    "category": "Pays",
+    "word": "Slovénie"
+  },
+  {
+    "category": "Pays",
+    "word": "Somalie"
+  },
+  {
+    "category": "Pays",
+    "word": "Soudan"
+  },
+  {
+    "category": "Pays",
+    "word": "Sri Lanka"
+  },
+  {
+    "category": "Pays",
+    "word": "Suède"
+  },
+  {
+    "category": "Pays",
+    "word": "Suisse"
+  },
+  {
+    "category": "Pays",
+    "word": "Syrie"
+  },
+  {
+    "category": "Pays",
+    "word": "Taiwan"
+  },
+  {
+    "category": "Pays",
+    "word": "Tanzanie"
+  },
+  {
+    "category": "Pays",
+    "word": "Tchad"
+  },
+  {
+    "category": "Pays",
+    "word": "Thailande"
+  },
+  {
+    "category": "Pays",
+    "word": "Tunisie"
+  },
+  {
+    "category": "Pays",
+    "word": "Turkménistan"
+  },
+  {
+    "category": "Pays",
+    "word": "Turquie"
+  },
+  {
+    "category": "Pays",
+    "word": "Ukraine"
+  },
+  {
+    "category": "Pays",
+    "word": "Uruguay"
+  },
+  {
+    "category": "Pays",
+    "word": "Vatican"
+  },
+  {
+    "category": "Pays",
+    "word": "Venezuela"
+  },
+  {
+    "category": "Pays",
+    "word": "Vietnam"
+  },
+  {
+    "category": "Pays",
+    "word": "Yemen"
+  },
+  {
+    "category": "Pays",
+    "word": "Yougoslavie"
+  },
+  {
+    "category": "Pays",
+    "word": "Zambie"
+  },
+  {
+    "category": "Pays",
+    "word": "Zimbabwe"
+  },
+  {
+    "category": "Sports",
+    "word": "Accrobranche"
+  },
+  {
+    "category": "Sports",
+    "word": "Aerobic"
+  },
+  {
+    "category": "Sports",
+    "word": "Agility"
+  },
+  {
+    "category": "Sports",
+    "word": "Aikido"
+  },
+  {
+    "category": "Sports",
+    "word": "Airsoft"
+  },
+  {
+    "category": "Sports",
+    "word": "Alpinisme"
+  },
+  {
+    "category": "Sports",
+    "word": "Apnée"
+  },
+  {
+    "category": "Sports",
+    "word": "Athlétisme"
+  },
+  {
+    "category": "Sports",
+    "word": "Aviation"
+  },
+  {
+    "category": "Sports",
+    "word": "Aviron"
+  },
+  {
+    "category": "Sports",
+    "word": "Badminton"
+  },
+  {
+    "category": "Sports",
+    "word": "Baseball"
+  },
+  {
+    "category": "Sports",
+    "word": "Basketball"
+  },
+  {
+    "category": "Sports",
+    "word": "Biathlon"
+  },
+  {
+    "category": "Sports",
+    "word": "Billard"
+  },
+  {
+    "category": "Sports",
+    "word": "BMX"
+  },
+  {
+    "category": "Sports",
+    "word": "Boomerang"
+  },
+  {
+    "category": "Sports",
+    "word": "Bowling"
+  },
+  {
+    "category": "Sports",
+    "word": "Boxe"
+  },
+  {
+    "category": "Sports",
+    "word": "Bridge"
+  },
+  {
+    "category": "Sports",
+    "word": "Canoë"
+  },
+  {
+    "category": "Sports",
+    "word": "Canoë-kayak"
+  },
+  {
+    "category": "Sports",
+    "word": "Canyonisme"
+  },
+  {
+    "category": "Sports",
+    "word": "Capoeira"
+  },
+  {
+    "category": "Sports",
+    "word": "Catch"
+  },
+  {
+    "category": "Sports",
+    "word": "Cirque"
+  },
+  {
+    "category": "Sports",
+    "word": "Claquettes"
+  },
+  {
+    "category": "Sports",
+    "word": "Combat"
+  },
+  {
+    "category": "Sports",
+    "word": "Course"
+  },
+  {
+    "category": "Sports",
+    "word": "Crosse"
+  },
+  {
+    "category": "Sports",
+    "word": "Crossfit"
+  },
+  {
+    "category": "Sports",
+    "word": "Curling"
+  },
+  {
+    "category": "Sports",
+    "word": "Cyclisme"
+  },
+  {
+    "category": "Sports",
+    "word": "Danse"
+  },
+  {
+    "category": "Sports",
+    "word": "Echecs"
+  },
+  {
+    "category": "Sports",
+    "word": "Equitation"
+  },
+  {
+    "category": "Sports",
+    "word": "Escalade"
+  },
+  {
+    "category": "Sports",
+    "word": "Escrime"
+  },
+  {
+    "category": "Sports",
+    "word": "Fitness"
+  },
+  {
+    "category": "Sports",
+    "word": "Fléchettes"
+  },
+  {
+    "category": "Sports",
+    "word": "Football"
+  },
+  {
+    "category": "Sports",
+    "word": "Footing"
+  },
+  {
+    "category": "Sports",
+    "word": "Futsal"
+  },
+  {
+    "category": "Sports",
+    "word": "Golf"
+  },
+  {
+    "category": "Sports",
+    "word": "Gymnastique"
+  },
+  {
+    "category": "Sports",
+    "word": "Haltérophilie"
+  },
+  {
+    "category": "Sports",
+    "word": "Handball"
+  },
+  {
+    "category": "Sports",
+    "word": "Handisport"
+  },
+  {
+    "category": "Sports",
+    "word": "Hockey"
+  },
+  {
+    "category": "Sports",
+    "word": "Jetski"
+  },
+  {
+    "category": "Sports",
+    "word": "Judo"
+  },
+  {
+    "category": "Sports",
+    "word": "Karaté"
+  },
+  {
+    "category": "Sports",
+    "word": "Karting"
+  },
+  {
+    "category": "Sports",
+    "word": "Krav-maga"
+  },
+  {
+    "category": "Sports",
+    "word": "Luge"
+  },
+  {
+    "category": "Sports",
+    "word": "Lutte"
+  },
+  {
+    "category": "Sports",
+    "word": "Marche"
+  },
+  {
+    "category": "Sports",
+    "word": "Monocycle"
+  },
+  {
+    "category": "Sports",
+    "word": "Moto"
+  },
+  {
+    "category": "Sports",
+    "word": "Motoneige"
+  },
+  {
+    "category": "Sports",
+    "word": "Musculation"
+  },
+  {
+    "category": "Sports",
+    "word": "Natation"
+  },
+  {
+    "category": "Sports",
+    "word": "Paintball"
+  },
+  {
+    "category": "Sports",
+    "word": "Parachutisme"
+  },
+  {
+    "category": "Sports",
+    "word": "Parapente"
+  },
+  {
+    "category": "Sports",
+    "word": "Patinage"
+  },
+  {
+    "category": "Sports",
+    "word": "Pêche"
+  },
+  {
+    "category": "Sports",
+    "word": "Pétanque"
+  },
+  {
+    "category": "Sports",
+    "word": "Planche à voile"
+  },
+  {
+    "category": "Sports",
+    "word": "Plongée"
+  },
+  {
+    "category": "Sports",
+    "word": "Plongeon"
+  },
+  {
+    "category": "Sports",
+    "word": "Polo"
+  },
+  {
+    "category": "Sports",
+    "word": "Quad"
+  },
+  {
+    "category": "Sports",
+    "word": "Rafting"
+  },
+  {
+    "category": "Sports",
+    "word": "Raid"
+  },
+  {
+    "category": "Sports",
+    "word": "Rallye"
+  },
+  {
+    "category": "Sports",
+    "word": "Randonnée"
+  },
+  {
+    "category": "Sports",
+    "word": "Roller"
+  },
+  {
+    "category": "Sports",
+    "word": "Rugby"
+  },
+  {
+    "category": "Sports",
+    "word": "Salsa"
+  },
+  {
+    "category": "Sports",
+    "word": "Samba"
+  },
+  {
+    "category": "Sports",
+    "word": "Sambo"
+  },
+  {
+    "category": "Sports",
+    "word": "Sauvetage"
+  },
+  {
+    "category": "Sports",
+    "word": "Skateboard"
+  },
+  {
+    "category": "Sports",
+    "word": "Ski"
+  },
+  {
+    "category": "Sports",
+    "word": "Snowboard"
+  },
+  {
+    "category": "Sports",
+    "word": "Squash"
+  },
+  {
+    "category": "Sports",
+    "word": "Surf"
+  },
+  {
+    "category": "Sports",
+    "word": "Taekwondo"
+  },
+  {
+    "category": "Sports",
+    "word": "Tango"
+  },
+  {
+    "category": "Sports",
+    "word": "Tennis"
+  },
+  {
+    "category": "Sports",
+    "word": "Tir"
+  },
+  {
+    "category": "Sports",
+    "word": "Tir à l'arc"
+  },
+  {
+    "category": "Sports",
+    "word": "Triathlon"
+  },
+  {
+    "category": "Sports",
+    "word": "Ultimate"
+  },
+  {
+    "category": "Sports",
+    "word": "Vélo"
+  },
+  {
+    "category": "Sports",
+    "word": "Voile"
+  },
+  {
+    "category": "Sports",
+    "word": "Volleyball"
+  },
+  {
+    "category": "Sports",
+    "word": "Voltige"
+  },
+  {
+    "category": "Sports",
+    "word": "VTT"
+  },
+  {
+    "category": "Sports",
+    "word": "Wakeboard"
+  },
+  {
+    "category": "Sports",
+    "word": "Waterpolo"
+  },
+  {
+    "category": "Sports",
+    "word": "Yoga"
+  },
+  {
+    "category": "Sports",
+    "word": "Zumba"
+  }
+]
