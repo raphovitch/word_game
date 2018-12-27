@@ -16,29 +16,25 @@ $(document).ready(function() {
 
 });
 
-let words;
-let coded_words;
-let score;
-let words_found;
-
-
-
+var words;
+var coded_words;
+var score;
+var words_found = [];
 
 
 function startGame() {
 
-    var seconds_left = 60;
+    var seconds_left = 30;
     var interval = setInterval(function() {
-        document.getElementById('timer').innerHTML = `<p> Seconds left : ` + --seconds_left+ `</p>`;
-        if (seconds_left <= 0){
+        document.getElementById('timer').innerHTML = `<p> Seconds left : ` + --seconds_left + `</p>`;
+        if (seconds_left <= 0) {
             clearInterval(interval);
         }
     }, 1000);
-    
-    timeoutID = window.setTimeout(getScores, 60000);
+
+    timeoutID = window.setTimeout(getScores, 30000);
     words = [];
     coded_words = [];
-    words_found = [];
     score = 0;
     getNewWord()
 
@@ -50,7 +46,7 @@ function startGame() {
         var coded_word = coded_words[index_coded]
         var word_string = word.word
         var category = word.category
-
+        console.log()
         var flag = checkWord(word_string)
         if (flag == false) {
             // cas ou le mot n'est pas trouvé : il faut render le mot
@@ -129,6 +125,23 @@ function startGame() {
 };
 
 function getScores() {
+    console.log(words_found)
+
+    $.ajax({
+            url: '/game_app/end_game/',
+            type: 'POST',
+            data: {
+                words_found: JSON.stringify(words_found),
+                score: score
+            }
+        })
+        .done(function(data) {
+            if (data.code == 200) {
+                console.log('game created')
+            }
+        });
+
+
     $('#all_game').empty();
 
     var scoreHTML = `<div class="card-body" id="score">
@@ -213,3 +226,48 @@ function checkWord(word_to_find) {
     }
     return check
 };
+
+
+
+$(document).ready(function () {
+$(function() {
+    function getCookie(name) {
+        var cookieValue = null;
+        if (document.cookie && document.cookie != '') {
+            var cookies = document.cookie.split(';');
+            for (var i = 0; i < cookies.length; i++) {
+                var cookie = jQuery.trim(cookies[i]);
+                if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                    cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                    break;
+                }
+            }
+        }
+        return cookieValue;
+    }
+    var csrftoken = getCookie('csrftoken');
+
+    function csrfSafeMethod(method) {
+        return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+    }
+
+    function sameOrigin(url) {
+        var host = document.location.host;
+        var protocol = document.location.protocol;
+        var sr_origin = '//' + host;
+        var origin = protocol + sr_origin;
+        return (url == origin || url.slice(0, origin.length + 1) == origin + '/') ||
+            (url == sr_origin || url.slice(0, sr_origin.length + 1) == sr_origin + '/') ||
+            !(/^(\/\/|http:|https:).*/.test(url));
+    }
+
+    $.ajaxSetup({
+        beforeSend: function(xhr, settings) {
+            if (!csrfSafeMethod(settings.type) && sameOrigin(settings.url)) {
+                xhr.setRequestHeader("X-CSRFToken", csrftoken);
+            }
+        }
+    });
+}); 
+
+});

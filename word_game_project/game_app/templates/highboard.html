@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+
+{% block title %}Game Page{% endblock %}
+
+
+{% block content%}
+
+
+<div class = 'text-center'>
+	<h1> Here are the best scores </h1>
+</div>
+
+
+<br><br>
+
+<div class = 'container'>
+
+	{% for game in best_games %}	
+		  <div class="row">
+		  		<div class="card text-center col-sm-4 offset-sm-4">
+		  			<div class="header"> 
+		  				<h4>Game n° {{game.id}} </h4>
+		  			 </div>
+					<div class="card-body ">
+						<p> Username : {{game.user.user.username}}
+						<p>Number of words found : {{game.result}} </p>
+						<p> Words found :
+						{% for words in game.words.all %}
+							{{words}}, 
+						{% endfor %}
+						</p>		
+					</div>
+						
+		 		</div>
+
+		 </div>
+		 <br>
+
+	{% endfor %}
+
+	<div class='text-center'>
+		<a href="{% url 'game_app:game_page' %}" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Start a New Game</a>	
+	</div>
+
+</div>
+
+
+{% endblock %}
+

@@ -1,6 +1,42 @@
 from django.shortcuts import render
-from game_app.models import Category, Word
+from game_app.models import Category, Word, Result, Game
+from profile_app.models import UserProfileInfo
 from django.http import JsonResponse
+from django.contrib.auth.decorators import login_required
+import json
+
+
+def get_high_scores(request):
+	best_games = Game.objects.all().order_by('-result')[:3]
+	if request.user.is_authenticated:
+		user = request.user
+		return render(request, 'highboard.html', context ={
+				'logged_in':True,
+				'user':user, 
+				'best_games':best_games,
+			})
+
+	else : 
+		return render(request, 'highboard.html', context ={
+				'logged_in':False,
+				'best_games':best_games,
+			})
+
+
+
+def homepage(request):
+	if request.user.is_authenticated:
+		user = request.user
+		return render(request, 'homepage.html', context ={
+				'logged_in':True,
+				'user':user
+			})
+	else : 
+		return render(request, 'homepage.html', context ={
+				'logged_in':False,
+			})
+
+
 
 def get_coded_word(word):
 
@@ -38,11 +74,19 @@ def get_coded_word(word):
 
 # Create your views here.
 
-
+@login_required
 def game_page(request):
+
+	user = request.user
 	if 'words_used' in request.session: 
 		del request.session['words_used']
-	return render(request,'game.html')
+
+	return render(request, 'game.html', context ={
+			'logged_in':True,
+			'user':user
+			})
+	
+
 
 
 def get_word(request):
@@ -64,7 +108,7 @@ def get_word(request):
 		coded_word_list.append(str(i))
 
 	coded_word_string = ' '.join(coded_word_list)
-	print(coded_word_string)
+	
 
 	word = {
 		'word' : word_string,
@@ -78,6 +122,39 @@ def get_word(request):
 	}
 
 	return JsonResponse(response)
+
+@login_required
+def end_game(request):
+	user = request.user
+	user_p = UserProfileInfo.objects.get(user = user)
+	if request.method == 'POST':
+		words_found = json.loads(request.POST.get('words_found'))
+		print(words_found)
+		print('######')
+		score = request.POST.get('score')
+
+		score_int = int(score)
+		result = Result.objects.get_or_create(user= user_p, points=score_int)[0]
+
+		game = Game.objects.get_or_create(user= user_p, result= result)[0]
+
+		list_object_words_found = []
+
+		for i in words_found :
+			print('#####')
+			print(type(i))
+			print('#####')
+			word_object = Word.objects.get(word=i)
+			list_object_words_found.append(word_object)
+
+		for word in list_object_words_found:
+			game.words.add(word)
+
+		response = {
+			'code':200
+		}
+
+		return JsonResponse(response)
 
 
 

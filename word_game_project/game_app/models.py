@@ -36,37 +36,37 @@ class Result(models.Model):
 	points = models.IntegerField(default=0)
 
 	def __repr__(self):
-		return "<User: {}; Points: {} >".format(self.user.user.username, self.points)
+		return "<Points: {} >".format(self.points)
 
 	def __str__(self):
-		return 'User: {}; Points: {} >'.format(self.user.user.username, self.points)
+		return '{}'.format(self.points)
 
 
 
 
 
-class Score(models.Model):
-	result_1 = models.ForeignKey(Result, on_delete=models.CASCADE, related_name='result_1')
-	result_2 = models.ForeignKey(Result, on_delete=models.CASCADE,related_name='result_2', blank= True)
-	result_3 = models.ForeignKey(Result, on_delete=models.CASCADE,related_name='result_3', blank= True)
-	result_4 = models.ForeignKey(Result, on_delete=models.CASCADE,related_name='result_4', blank= True)
+# class Score(models.Model):
+# 	result_1 = models.ForeignKey(Result, on_delete=models.CASCADE, related_name='result_1')
+# 	result_2 = models.ForeignKey(Result, on_delete=models.CASCADE,related_name='result_2', blank= True)
+# 	result_3 = models.ForeignKey(Result, on_delete=models.CASCADE,related_name='result_3', blank= True)
+# 	result_4 = models.ForeignKey(Result, on_delete=models.CASCADE,related_name='result_4', blank= True)
 
-	def __repr__(self):
-		return "<User: {}; Points: {}; User: {}; Points: {} ; User: {}; Points: {} ; User: {}; Points: {}>".format(self.result_1.user.user.username, self.result_1.points,self.result_2.user.user.username, self.result_2.points, self.result_3.user.user.username, self.result_3.points, self.result_4.user.user.username, self.result_4.points)
+# 	def __repr__(self):
+# 		return "<User: {}; Points: {}; User: {}; Points: {} ; User: {}; Points: {} ; User: {}; Points: {}>".format(self.result_1.user.user.username, self.result_1.points,self.result_2.user.user.username, self.result_2.points, self.result_3.user.user.username, self.result_3.points, self.result_4.user.user.username, self.result_4.points)
 
-	def __str__(self):
-		return '<User: {}; Points: {}; User: {}; Points: {} ; User: {}; Points: {} ; User: {}; Points: {}>'.format(self.result_1.user.user.username, self.result_1.points,self.result_2.user.user.username, self.result_2.points, self.result_3.user.user.username, self.result_3.points, self.result_4.user.user.username, self.result_4.points)
-
-
+# 	def __str__(self):
+# 		return '<User: {}; Points: {}; User: {}; Points: {} ; User: {}; Points: {} ; User: {}; Points: {}>'.format(self.result_1.user.user.username, self.result_1.points,self.result_2.user.user.username, self.result_2.points, self.result_3.user.user.username, self.result_3.points, self.result_4.user.user.username, self.result_4.points)
 
 
 
 class Game(models.Model):
-	nb_players = models.IntegerField()
-	users = models.ManyToManyField(UserProfileInfo, related_name='users')
-	words = models.ManyToManyField(Word, related_name='words')
-	scores = models.ForeignKey(Score, on_delete=models.CASCADE)
-	winner = models.ForeignKey(UserProfileInfo, on_delete=models.CASCADE)
+	# nb_players = models.IntegerField()
+	# users = models.ManyToManyField(UserProfileInfo, related_name='users')
+	user = models.ForeignKey(UserProfileInfo, on_delete=models.CASCADE)
+	words = models.ManyToManyField(Word, related_name='words', blank=True)
+	# scores = models.ForeignKey(Score, on_delete=models.CASCADE)
+	result = models.ForeignKey(Result, on_delete=models.CASCADE)
+	# winner = models.ForeignKey(UserProfileInfo, on_delete=models.CASCADE)
 
 	def __repr__(self):
 		return "<Game n°{}>".format(self.id)

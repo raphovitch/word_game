@@ -2,3 +2,50 @@
 	position: relative;
 	top: 100px;
 }
+
+
+.nav-login-pic {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+}
+
+.nav-login-bloc {
+	right: -60%;
+	margin-left: 45px;
+
+
+}
+
+.nav-login-bloc a:hover {
+	text-decoration: none;
+	white-space: nowrap;
+}
+
+.log-sign-button a{
+	margin-left: 45px;
+	white-space: nowrap;
+}
+
+
+#search-bar{
+	margin-right: 8rem;
+	white-space: nowrap;
+}
+
+.container-nav{
+	display: flex;
+	justify-content: flex-end;
+	align-items: baseline;
+
+}
+
+.container-navbar{
+	display: flex;
+	align-items: baseline;
+}
+
+
+#logo-yt{
+	margin-right: 6rem;
+}

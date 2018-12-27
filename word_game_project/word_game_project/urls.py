@@ -17,9 +17,11 @@ from django.contrib import admin
 from django.urls import path, include
 from profile_app import views
 from game_app import views
+from login_app import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('profile_app/', include('profile_app.urls')),
     path('game_app/', include('game_app.urls')),
+    path('login_app/', include('login_app.urls')),
 ]
